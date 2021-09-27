@@ -1,2 +1,3 @@
-# sf_project_1
-A simple game where computer try to guess automaticaly generated numbers.
+# Учебные проекты
+
+*[Проект №0: Угадай число](https://github.com/Nikoobraz/sf_project_1/tree/main/Project_0)
